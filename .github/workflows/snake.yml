@@ -1,12 +1,11 @@
+permissions:
+  contents: write
 name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *"   # Runs every 12 hours
   workflow_dispatch:         # Allow manual trigger
-
-permissions:
-  contents: write    # 👈 required so the bot can push to repo
 
 jobs:
   generate:
