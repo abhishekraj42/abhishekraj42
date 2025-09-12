@@ -6,7 +6,7 @@ on:
   workflow_dispatch:         # Allow manual trigger
 
 permissions:
-  contents: write    # 👈 this is required so the bot can push
+  contents: write    # 👈 required so the bot can push to repo
 
 jobs:
   generate:
@@ -16,17 +16,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate snake.svg
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: abhishekraj42
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/snake.svg
 
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          new_branch: output      # 👈 correct input
+          new_branch: output
           message: "Generated snake animation"
           add: "dist/*.svg"
