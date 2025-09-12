@@ -1,5 +1,7 @@
 # 🌟 Hey there, I’m Abhishek Raj!  
 
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek-raj&label=Profile%20Views&color=blueviolet&style=flat)
+
 👨‍💻 Developer | 🌍 Open Source Lover | 🎨 Creative Coder | 🚀 Always Learning  
 
 ---
@@ -57,6 +59,19 @@
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a>
 <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge" /></a>
 <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=fff&style=for-the-badge" /></a>
+</p>
+
+---
+
+## 😂 Coding Fun Zone  
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+</p>  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
 ---
