@@ -46,10 +46,6 @@
   <img src="https://raw.githubusercontent.com/abhishek-raj/abhishek-raj/output/dist/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishek-raj/abhishek-raj/output/dist/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 ## 🎬 Cool Coding Animations  
