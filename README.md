@@ -42,9 +42,11 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishek-raj/abhishek-raj/output/dist/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekraj42/abhishekraj42/output/dist/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekraj42/abhishekraj42/output/dist/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekraj42/abhishekraj42/output/dist/snake.svg" />
+</picture>
 
 ---
 
