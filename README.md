@@ -28,12 +28,26 @@
 
 ## 📊 GitHub Vibes  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-raj&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-raj&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>  
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhishek-raj&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Snake  
+<p align="center">
+  <img src="https://github.com/abhishek-raj/abhishek-raj/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🎬 Cool Coding Animations  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Console.log('Hello+World!')+👋;Always+Learning+New+Techs+🚀;Building+Cool+Projects+💻;Contributing+to+Open+Source+🌍" alt="Typing SVG" />
 </p>
 
 ---
