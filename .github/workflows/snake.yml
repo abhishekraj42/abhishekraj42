@@ -20,7 +20,14 @@ jobs:
         with:
           github_user_name: abhishekraj42
           outputs: dist/snake.svg
-
+      - name: Fetch and update remote branch
+        run: |
+          git fetch origin output
+          git checkout output
+          git pull origin output
+      # Your code to generate changes goes here
+      - name: Push changes
+        run: git push origin output
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
