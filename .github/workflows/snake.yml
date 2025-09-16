@@ -21,7 +21,7 @@ jobs:
           github_user_name: abhishekraj42
           outputs: dist/snake.svg
 
-      - name: Push to output branch
+      - name: Commit and push to output branch
         uses: EndBug/add-and-commit@v9
         with:
           new_branch: output
